@@ -1,0 +1,12 @@
+h1{
+	font-size: 40px;
+	color: brown;
+	background-color: wheat;
+	padding: 15px;
+}
+
+.content{
+	background-color: whitesmoke;
+	padding: 15px;
+	border: solid 1px #ccc;
+}
